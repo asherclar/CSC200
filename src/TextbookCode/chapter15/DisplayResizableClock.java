@@ -1,6 +1,6 @@
 package TextbookCode.chapter15;
 
-import chapter14.ClockPane;
+import TextbookCode.chapter14.ClockPane;
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.stage.Stage;

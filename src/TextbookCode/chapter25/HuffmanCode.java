@@ -1,6 +1,6 @@
 package TextbookCode.chapter25;
 
-import chapter23.Heap;
+import TextbookCode.chapter23.Heap;
 import java.util.Scanner;
 
 public class HuffmanCode {

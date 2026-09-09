@@ -1,6 +1,6 @@
 package TextbookCode.chapter24;
 
-import chapter23.Heap;
+import TextbookCode.chapter23.Heap;
 
 public class MyPriorityQueue<E> {
   private Heap<E> heap;

@@ -1,9 +1,8 @@
 package TextbookCode.chapter20;
 
-import chapter13.GeometricObject;
-import chapter13.Rectangle;
-import chapter13.Circle;
-import java.util.Comparator;
+import TextbookCode.chapter13.GeometricObject;
+import TextbookCode.chapter13.Rectangle;
+import TextbookCode.chapter13.Circle;
 
 public class TestComparator {
   public static void main(String[] args) {
@@ -17,8 +16,8 @@ public class TestComparator {
       g.getArea());
   }
   
-  public static GeometricObject max(GeometricObject g1, 
-      GeometricObject g2, Comparator<GeometricObject> c) {
+  public static GeometricObject max(GeometricObject g1,
+                                    GeometricObject g2, GeometricObjectComparator c) {
     if (c.compare(g1, g2) > 0)
       return g1;
     else

@@ -1,8 +1,8 @@
 package TextbookCode.chapter19;
 
-import chapter13.Circle;
-import chapter13.GeometricObject;
-import chapter13.Rectangle;
+import TextbookCode.chapter13.Circle;
+import TextbookCode.chapter13.GeometricObject;
+import TextbookCode.chapter13.Rectangle;
 
 public class BoundedTypeDemo {
   public static void main(String[] args ) {

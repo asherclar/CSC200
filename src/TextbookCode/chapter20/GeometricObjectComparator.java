@@ -1,6 +1,6 @@
 package TextbookCode.chapter20;
 
-import chapter13.GeometricObject;
+import TextbookCode.chapter13.GeometricObject;
 import java.util.Comparator;
 
 public class GeometricObjectComparator

@@ -1,6 +1,6 @@
 package TextbookCode.chapter16;
 
-import chapter15.BallPane;
+import TextbookCode.chapter15.BallPane;
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;

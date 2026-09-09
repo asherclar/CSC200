@@ -1,6 +1,6 @@
 package TextbookCode.chapter26;
 
-import chapter25.Tree;
+import TextbookCode.chapter25.Tree;
 
 public class BST<E> implements Tree<E> {
   protected TreeNode<E> root;

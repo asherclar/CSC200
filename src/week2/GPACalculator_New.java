@@ -81,3 +81,25 @@ GPA of class: 4
 Total GPA is: 3.6181818181818177
 
  */
+
+/*
+How many courses? 4
+Name of class: Calc III
+Number of credits: 4
+GPA of class: 4
+
+Name of class: AP Biology
+Number of credits: 8
+GPA of class: 3.7
+
+Name of class: AP Statistics
+Number of credits: 3
+GPA of class: 4
+
+Name of class: AP English Literature
+Number of credits: 3
+GPA of class: 2.7
+
+
+Total GPA is: 3.6500000000000004
+ */

@@ -1,6 +1,6 @@
 package TextbookCode.chapter19;
 
-import chapter13.Rational;
+import TextbookCode.chapter13.Rational;
 
 public class TestRationalMatrix {
   public static void main(String[] args) {

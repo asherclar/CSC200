@@ -1,9 +1,9 @@
 package TextbookCode.chapter21;
 
-import chapter13.GeometricObject;
-import chapter13.Circle;
-import chapter13.Rectangle;
-import chapter20.GeometricObjectComparator;
+import TextbookCode.chapter13.GeometricObject;
+import TextbookCode.chapter13.Circle;
+import TextbookCode.chapter13.Rectangle;
+import TextbookCode.chapter20.GeometricObjectComparator;
 import java.util.*;
 
 public class TestTreeSetWithComparator {
